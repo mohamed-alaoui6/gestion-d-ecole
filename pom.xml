@@ -49,7 +49,7 @@
             <artifactId>mariadb-java-client</artifactId>
             <version>3.3.2</version>
             </dependency>
-        <!-- Spring -->o
+        <!-- Spring -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
